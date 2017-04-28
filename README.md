@@ -1,2 +1,2 @@
-#Lab. 4
-oh yea
+# Lab4
+This lab is gonna showcase same directory links.
